@@ -3,7 +3,7 @@
 
 ![image](https://user-images.githubusercontent.com/78599029/171234352-74d227a1-413d-43d9-bbc9-1c74acc41585.png)
 ![image](https://user-images.githubusercontent.com/78599029/171234411-e85523da-8b8f-41fc-a7da-538c31d14707.png)
-
+![image](https://user-images.githubusercontent.com/78599029/171235032-f00bd884-de40-48f0-9132-166244a7378b.png)
 ![shoot_reload](https://user-images.githubusercontent.com/80967661/169015448-39079b7f-8e4b-4110-9b43-463d84427339.png)
 
 Heuristic: 
